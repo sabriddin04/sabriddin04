@@ -7,8 +7,7 @@
 
 ## 🛠️ Технологии
 - **Backend:** C#, ASP.NET Core, Entity Framework
-- **Frontend:** JavaScript, React
-- **Базы данных:** SQL Server, PostgreSQL
+- **Базы данных:** SQL Server, PostgreSQL, Oracle
 - **Инструменты:** Git, Docker, Azure
 
 ## 📫 Контакты
